@@ -1,6 +1,9 @@
 # ubuntu-install-Tor-Relay-update-tor-relay-version
 
 
+https://www.youtube.com/watch?v=BeU-dJYSvkE
+
+
 ==========================================================================================
 
 Nickname    myRelay  # Change "myRelay" to something you like
