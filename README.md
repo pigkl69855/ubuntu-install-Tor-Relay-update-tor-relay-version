@@ -4,19 +4,29 @@
 ==========================================================================================
 
 Nickname    myRelay  # Change "myRelay" to something you like
+
 ContactInfo your@e-mail  # Write your e-mail and be aware it will be published
+
 ORPort      9001          # You might use a different port, should you want to
+
 DirPort 9030
+
 ExitRelay   0
+
 SocksPort   0
 
+
 ControlPort 9051
+
 CookieAuthentication 1
+
 CookieAuthFileGroupReadable 1
+
 
 ==========================================================================================
 
 deb     [arch=<ARCHITECTURE> signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
+
 deb-src [arch=<ARCHITECTURE> signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org focal main
 
 ==========================================================================================
